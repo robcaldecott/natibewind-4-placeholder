@@ -9,6 +9,7 @@ export default function App() {
         <Text>The placeholder below should be yellow-300</Text>
         <TextInput
           className="bg-slate-900 h-10 text-white px-2"
+          placeholder="Placeholder text"
           placeholderClassName="text-yellow-300"
         />
       </View>
